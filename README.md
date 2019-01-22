@@ -1,0 +1,4 @@
+# deeplearning
+
+- autoencoder
+- batch normalization
