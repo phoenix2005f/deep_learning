@@ -2,3 +2,5 @@
 
 - autoencoder
 - batch normalization
+- DCGAN
+
